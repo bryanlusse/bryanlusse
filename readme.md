@@ -3,19 +3,11 @@
   <a rel="noreferrer"><img src="banner.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a>Bryan</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Data Engineer 💻 and Hobby Photographer 📸
-</h2> 
-
-I love the entire process of developing software. That may be data pipelines, API's or websites. I love the challenge of 
+I love the entire process of developing software. That may be data pipelines, API's or websites. I like the challenge of solving problems and creating usable and stable solutions.
 
 ### 🤝 Connect with me:
 
-<div align="center"><a href="https://www.linkedin.com/in/bryan-lusse/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Bryan | LinkedIn" width="21px"/></a></div>
+<div align="left"><a href="https://www.linkedin.com/in/bryan-lusse/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Bryan | LinkedIn" width="21px"/></a></div>
 
 ## 🔭 I'm currently working on
 
@@ -52,5 +44,3 @@ I love the entire process of developing software. That may be data pipelines, AP
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bryanlusse)](https://github.com/bryanlusse)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlusse&layout=compact)](https://github.com/bryanlusse)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bryanlusse.bryanlusse)
